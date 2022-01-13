@@ -1,0 +1,19 @@
+{
+  "name": "frontrunning",
+  "version": "1.0.0",
+  "description": "analytics for frontrunning",
+  "type": "module",
+  "main": "main.js",
+  "dependencies": {
+    "abi-decoder": "^2.4.0",
+    "axios": "^0.24.0",
+    "ethereum-input-data-decoder": "^0.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "run": "node main.js"
+  },
+  "author": "rg203",
+  "license": "ISC"
+}
